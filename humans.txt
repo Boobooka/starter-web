@@ -8,6 +8,7 @@
 # THANKS
 
     Thx to all
+    Köszi
 
 # TECHNOLOGY COLOPHON
 
